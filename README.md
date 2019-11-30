@@ -1,0 +1,2 @@
+# FurryGAN
+GANs for furries
